@@ -2,18 +2,18 @@
 
 ### A passionate Full Stack Developer from India 🇮🇳
 
-- 👋 Have a look at my **Portfolio**: [Click Here](#)
+- 👋 Have a look at my **Portfolio**: [Click Here](https://myportfolioo-website-rho.vercel.app/)
 - 🌱 My tech stack includes **MERN Stack** and **Next.js**
 - 👨‍💻 All of my projects are available at:  
-  👉 https://github.com/karshdev
+  👉 https://github.com/Shar-Devvv
 - 💬 Ask me about **React.js, JavaScript, Java, Next.js**
-- 📫 How to reach me: **sharmaaakarsh120@gmail.com**
+- 📫 How to reach me: **sharmasneha58991@gmail.com**
 - ⚡ Fun fact: **You will hire me 😄**
 
 ---
 
 ## 🌐 Connect with me
-- GitHub: [karshdev](https://github.com/karshdev)
+- GitHub: [karshdev](https://github.com/Shar-Devvv)
 
 ---
 
