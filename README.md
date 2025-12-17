@@ -13,7 +13,7 @@
 ---
 
 ## 🌐 Connect with me
-- GitHub: [karshdev](https://github.com/Shar-Devvv)
+- GitHub: [Shar-Devvv](https://github.com/Shar-Devvv)
 
 ---
 
