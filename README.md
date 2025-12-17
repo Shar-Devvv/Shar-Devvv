@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Sneha Sharma
 
-<!--
-**Shar-Devvv/Shar-Devvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate Full Stack Developer from India 🇮🇳
 
-Here are some ideas to get you started:
+- 👋 Have a look at my **Portfolio**: [Click Here](#)
+- 🌱 My tech stack includes **MERN Stack** and **Next.js**
+- 👨‍💻 All of my projects are available at:  
+  👉 https://github.com/karshdev
+- 💬 Ask me about **React.js, JavaScript, Java, Next.js**
+- 📫 How to reach me: **sharmaaakarsh120@gmail.com**
+- ⚡ Fun fact: **You will hire me 😄**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with me
+- GitHub: [karshdev](https://github.com/karshdev)
+
+---
+
+## 🛠️ Languages and Tools
+
+**Frontend**
+- HTML5, CSS3, JavaScript
+- React.js, Next.js, Redux
+- Bootstrap, Tailwind CSS, Sass
+
+**Backend**
+- Node.js, Express.js
+- MongoDB, MySQL
+- Firebase
+
+**Programming Languages**
+- Java
+- C++
+- JavaScript
+
+**Other Tools**
+- Android Development
+- Git & GitHub
+
+---
+
+⭐️ *Feel free to check out my repositories and drop a star if you like my work!*  
+— **Sneha Sharma**
